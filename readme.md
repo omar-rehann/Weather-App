@@ -23,7 +23,7 @@ This app allows users to check real-time weather information for any city around
 
 ---
 
-## ⚙️ Installation & Usage
-1. Clone the repository:
+## ⚙️ Live Demo
+1. Watch the repository:
    ```bash
    Live Demo: https://omar-rehann.github.io/Weather-App/
