@@ -1,7 +1,7 @@
   let inputel = document.querySelector(".enter");
   let ser = document.querySelector('.go');
   let section = document.querySelector(".continer");
-  // start even ajax
+  // start even ajaxx
   ser.onclick = function(e) {
       section.innerHTML = '';
 
